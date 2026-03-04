@@ -125,7 +125,7 @@ Model Evaluation Metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), R
 
 Data storytelling and insight extraction
 
-🧪 Testing & Validation
+## 🧪 Testing & Validation
 Verified correct data loading and schema validation
 
 Validated Train-Test split configurations (80/20 ratio)
@@ -138,7 +138,7 @@ Verified evaluation metrics calculations for accuracy
 
 Ensured reproducibility of notebooks via random states (random_state=42)
 
-📚 What I Learned
+## 📚 What I Learned
 Structuring an end-to-end machine learning project professionally
 
 Handling non-numeric categorical data for ML algorithms
@@ -153,7 +153,7 @@ Creating impactful data visualizations for model decision-making
 
 Writing industry-standard documentation for analytical pipelines
 
-📦 Deliverables
+## 📦 Deliverables
 Comprehensive README.md
 
 Main analytical notebook (house_price_prediction.ipynb)
