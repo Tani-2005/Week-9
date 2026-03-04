@@ -63,7 +63,7 @@ pip install -r requirements.txt
 jupyter notebook house_price_prediction.ipynb
 ```
 
-📂 Project Structure
+## 📂 Project Structure
 ```bash
 Week-9/
 ├── house_price_prediction.ipynb
@@ -82,7 +82,7 @@ Week-9/
     └── predictions_vs_actual.png
 ```
 
-📊 Analysis Performed
+## 📊 Analysis Performed
 Business problem definition and regression metric design
 
 Data preprocessing pipeline (handling categorical inputs via One-Hot Encoding)
