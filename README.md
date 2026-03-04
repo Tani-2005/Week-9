@@ -99,7 +99,7 @@ Error margin analysis and residual tracking
 
 Model KPI analysis and feature importance extraction
 
-📈 Visualizations Created
+## 📈 Visualizations Created
 Feature Correlation Heatmap: To identify multicollinearity and relationships with Price
 
 Pairplot by Location: To observe data distribution across different regions
@@ -110,7 +110,7 @@ Feature Importance Bar Chart: To highlight the most impactful variables (e.g., A
 
 Actual vs. Predicted Scatter Plot: To visually assess model accuracy
 
-🧠 Key Concepts Used
+## 🧠 Key Concepts Used
 Supervised Learning vs Unsupervised Learning concepts
 
 Data splitting (Train-Test Split) methodologies
