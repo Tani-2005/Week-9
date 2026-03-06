@@ -83,32 +83,21 @@ Week-9/
 ```
 
 ## 📊 Analysis Performed
-Business problem definition and regression metric design
-
-Data preprocessing pipeline (handling categorical inputs via One-Hot Encoding)
-
-Exploratory Data Analysis (EDA) for feature correlation and distribution
-
-Baseline Model Development: Linear regression implemented from scratch
-
-Standard Model Development: Multiple Linear Regression using Scikit-Learn
-
-Advanced Model Development: Random Forest Regressor implementation
-
-Error margin analysis and residual tracking
-
-Model KPI analysis and feature importance extraction
+* Business problem definition and regression metric design
+* Data preprocessing pipeline (handling categorical inputs via One-Hot Encoding)
+* Exploratory Data Analysis (EDA) for feature correlation and distribution
+* Baseline Model Development: Linear regression implemented from scratch
+* Standard Model Development: Multiple Linear Regression using Scikit-Learn
+* Advanced Model Development: Random Forest Regressor implementation
+* Error margin analysis and residual tracking
+* Model KPI analysis and feature importance extraction
 
 ## 📈 Visualizations Created
-Feature Correlation Heatmap: To identify multicollinearity and relationships with Price
-
-Pairplot by Location: To observe data distribution across different regions
-
-Residual Plot: To validate error distributions and ensure model reliability
-
-Feature Importance Bar Chart: To highlight the most impactful variables (e.g., Area, Location)
-
-Actual vs. Predicted Scatter Plot: To visually assess model accuracy
+* Feature Correlation Heatmap: To identify multicollinearity and relationships with Price
+* Pairplot by Location: To observe data distribution across different regions
+* Residual Plot: To validate error distributions and ensure model reliability
+* Feature Importance Bar Chart: To highlight the most impactful variables (e.g., Area, Location)
+* Actual vs. Predicted Scatter Plot: To visually assess model accuracy
 
 ## 🧠 Key Concepts Used
 Supervised Learning vs Unsupervised Learning concepts
