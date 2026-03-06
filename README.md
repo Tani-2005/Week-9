@@ -70,16 +70,8 @@ Week-9/
 ├── README.md
 ├── model_evaluation_report.md
 ├── requirements.txt
-│
-├── data/
-│   └── house_data.csv
-│
-└── visualizations/
-    ├── correlation_heatmap.png
-    ├── pairplot.png
-    ├── residual_plot.png
-    ├── feature_importance.png
-    └── predictions_vs_actual.png
+├── house_data.csv
+└── predictions_vs_actual.png
 ```
 
 ## 📊 Analysis Performed
