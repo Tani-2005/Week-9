@@ -100,32 +100,21 @@ Week-9/
 * Actual vs. Predicted Scatter Plot: To visually assess model accuracy
 
 ## 🧠 Key Concepts Used
-Supervised Learning vs Unsupervised Learning concepts
-
-Data splitting (Train-Test Split) methodologies
-
-Categorical data encoding
-
-Mathematical foundations of Linear Regression
-
-Advanced ensemble methods (Random Forests)
-
-Model Evaluation Metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), R² Score
-
-Data storytelling and insight extraction
+* Supervised Learning vs Unsupervised Learning concepts
+* Data splitting (Train-Test Split) methodologies
+* Categorical data encoding
+* Mathematical foundations of Linear Regression
+* Advanced ensemble methods (Random Forests)
+* Model Evaluation Metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), R² Score
+* Data storytelling and insight extraction
 
 ## 🧪 Testing & Validation
-Verified correct data loading and schema validation
-
-Validated Train-Test split configurations (80/20 ratio)
-
-Cross-checked baseline model mathematical accuracy against Sklearn models
-
-Analyzed residual plots to confirm there is no strong bias in predictions
-
-Verified evaluation metrics calculations for accuracy
-
-Ensured reproducibility of notebooks via random states (random_state=42)
+* Verified correct data loading and schema validation
+* Validated Train-Test split configurations (80/20 ratio)
+* Cross-checked baseline model mathematical accuracy against Sklearn models
+* Analyzed residual plots to confirm there is no strong bias in predictions
+* Verified evaluation metrics calculations for accuracy
+* Ensured reproducibility of notebooks via random states (random_state=42)
 
 ## 📚 What I Learned
 Structuring an end-to-end machine learning project professionally
