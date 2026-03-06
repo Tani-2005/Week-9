@@ -117,29 +117,18 @@ Week-9/
 * Ensured reproducibility of notebooks via random states (random_state=42)
 
 ## 📚 What I Learned
-Structuring an end-to-end machine learning project professionally
-
-Handling non-numeric categorical data for ML algorithms
-
-Translating raw features into a functional predictive model
-
-Comparing the performance limitations of simple linear models against ensemble trees
-
-Extracting and communicating "Feature Importance" to business stakeholders
-
-Creating impactful data visualizations for model decision-making
-
-Writing industry-standard documentation for analytical pipelines
+* Structuring an end-to-end machine learning project professionally
+* Handling non-numeric categorical data for ML algorithms
+* Translating raw features into a functional predictive model
+* Comparing the performance limitations of simple linear models against ensemble trees
+* Extracting and communicating "Feature Importance" to business stakeholders
+* Creating impactful data visualizations for model decision-making
+* Writing industry-standard documentation for analytical pipelines
 
 ## 📦 Deliverables
-Comprehensive README.md
-
-Main analytical notebook (house_price_prediction.ipynb)
-
-Detailed model_evaluation_report.md
-
-Organized dataset (house_data.csv)
-
-Output visualizations for presentations
-
-Python dependencies file (requirements.txt)
+* Comprehensive README.md
+* Main analytical notebook (house_price_prediction.ipynb)
+* Detailed model_evaluation_report.md
+* Organized dataset (house_data.csv)
+* Output visualizations for presentations
+* Python dependencies file (requirements.txt)
